@@ -83,10 +83,10 @@ const App = {
     console.log("Hello");
     const content = [{
       auth: 'Prof. KP Chaudhary',
-      msg: 'Its a matter of great privilege and pleasure for me to announce the commencement of avensis 2018. With consistent hard work and perseverance of our students, they have embarked on this continuous journey with a passionate attitude to place our institute as a hallmark of technical and scientific excellence.'
+      msg: 'Its a matter of great privilege and pleasure for me to announce the commencement of avensis 2019. With consistent hard work and perseverance of our students, they have embarked on this continuous journey with a passionate attitude to place our institute as a hallmark of technical and scientific excellence.'
     }, {
       auth: 'Dr. Rinky Dwivedi',
-      msg: 'Avensis 2018 is back with a flavour innovative skill sets of our students who would showcase their strengths and competences which would raise the aspirations of every young mind. I take pride in elaborating the fact that our fellow students have put in lots of sincere efforts to ake this Avensis a grand success.'
+      msg: 'Avensis 2019 is back with a flavour innovative skill sets of our students who would showcase their strengths and competences which would raise the aspirations of every young mind. I take pride in elaborating the fact that our fellow students have put in lots of sincere efforts to ake this Avensis a grand success.'
     }];
     const $msgText = document.getElementById('js-message-txt'),
       $msgAuth = document.getElementById('js-message-auth'),

@@ -148,7 +148,7 @@ img[data-src] {
 }
 
 .app {
-    background: url(../img/app-bg.jpg) center center no-repeat;
+    background: url(../img/app-bg1.jpg) center center no-repeat;
     color: white;
     background-size: cover;
     height: 100vh;
@@ -165,7 +165,7 @@ img[data-src] {
     right: 0;
     bottom: 0;
     left: 0;
-    background-color: rgba(17, 36, 255, 0.84);
+    background-color: rgba(13, 13, 92, 0.64);
 }
 
 .app__nav {
@@ -518,6 +518,12 @@ img[data-src] {
     padding: 10% 5%;
 }
 
+.event__tile h2,.event__tile p {
+    background: rgba(0, 0, 0, 0.66);
+    color: white;
+    padding: 0.2rem;
+}
+
 .event__tile--technical {
     background: url(../img/events/technical.jpg) center center no-repeat;
     background-size: cover;
@@ -533,6 +539,7 @@ img[data-src] {
 .event__tile--literary {
     background: url(../img/events/literature.jpg) center center no-repeat;
     background-size: cover;
+    color: white;
 }
 
 .event__tile--fnc {
@@ -548,18 +555,6 @@ img[data-src] {
 .app-event__tile .event__tile:nth-of-type(4) {
     background: #d4d4d4;
 }*/
-
-.app-event__tile .event__tile>h2 {
-    margin-bottom: 15px;
-}
-
-.app-event__tile .event__tile>p {
-    color: white;
-}
-
-.event__tile--literary>p {
-    color: black !important;
-}
 
 
 /* ==========================================================================
@@ -1230,7 +1225,7 @@ img[data-src] {
     Footer
    ========================================================================== */
     .footer ul {
-        width: 15%;
+        width: 10%;
     }
     .footer ul>li {
         cursor: pointer;
@@ -1341,7 +1336,7 @@ img[data-src] {
     Footer
    ========================================================================== */
     .footer ul {
-        width: 10%;
+        width: 7%;
     }
 }
 
