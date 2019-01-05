@@ -148,7 +148,7 @@ img[data-src] {
 }
 
 .app {
-    background: url(../img/app-bg.jpg) center center no-repeat;
+    background: url(../img/app-bg1.jpg) center center no-repeat;
     color: white;
     background-size: cover;
     height: 100vh;
@@ -165,7 +165,7 @@ img[data-src] {
     right: 0;
     bottom: 0;
     left: 0;
-    background-color: rgba(17, 36, 255, 0.84);
+    background-color: rgba(13, 13, 92, 0.64);
 }
 
 .app__nav {
