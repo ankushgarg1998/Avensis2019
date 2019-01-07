@@ -83,10 +83,10 @@ const App = {
     console.log("Hello");
     const content = [{
       auth: 'Prof. KP Chaudhary',
-      msg: 'Its a matter of great privilege and pleasure for me to announce the commencement of avensis 2019. With consistent hard work and perseverance of our students, they have embarked on this continuous journey with a passionate attitude to place our institute as a hallmark of technical and scientific excellence.'
+      msg: 'It is with immense pride that I announce the commencement of Avensis 2019, the annual technical festival of MSIT. This momentous celebration provides a platform for students to tap their potential and reveal their prodigious talents. I would like to applaud the consistent and untiring efforts of the students that make AVENSIS an unforgettable learning experience.'
     }, {
-      auth: 'Dr. Rinky Dwivedi',
-      msg: 'Avensis 2019 is back with a flavour innovative skill sets of our students who would showcase their strengths and competences which would raise the aspirations of every young mind. I take pride in elaborating the fact that our fellow students have put in lots of sincere efforts to ake this Avensis a grand success.'
+      auth: 'Dr. Tripti Sharma',
+      msg: 'MSIT is back with its annual technical fest, Avensis. The fest will provide an effective platform for instigating new ideas and constructive collaborations. Like each year, the students, with their dedication, exhilaration and enthusiasm, will make Avensis 2019 a huge technical extravaganza.'
     }];
     const $msgText = document.getElementById('js-message-txt'),
       $msgAuth = document.getElementById('js-message-auth'),
